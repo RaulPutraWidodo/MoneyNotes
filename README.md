@@ -1,10 +1,7 @@
 # RAUL PUTRA WIDODO
 # 312310610
 # MoneyNotes
-# StoryBoard
-![img](dokpm1/StoryBoard.png)
-# Mockup
-![img](dokpm1/Mockup.png)
+
 # UI
 ![img](dokpm1/UI.png)
 
